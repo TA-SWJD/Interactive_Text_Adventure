@@ -1,0 +1,187 @@
+LOCATION -1
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+1
+You are on the first floor of the Robarts Library. There is an empty study room to the South, an exit to the East.
+You are on the first floor of the Robarts Library. It's usually crowded at this time of the day, but today it's eerily
+quiet. Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands
+near the service desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to
+the East.
+END
+
+LOCATION 2
+2
+This study room is completely empty.
+You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something with this space?
+END
+
+LOCATION 3
+3
+You are outside the Robarts library.
+You are outside the Robarts library on a crowded street. There is a smell of coffee in the air.
+END
+
+LOCATION 4
+4
+You are at the magic room.
+You are at the magic room that some of the items can be dropped here. There are many magic items on this campus.
+END
+
+LOCATION 5
+5
+Wow, you teleported to the Innis College! South: New College, East: AC, West: Robarts Library.
+Innis collge, the home of many students. A vibrant and inclusive community ready to welcome students, staff, and
+faculty. Wanna stay at the innis Garden for a rest? Move south you will be teleported to 6, move east will be 9,
+and move west will be the Robarts Library.
+END
+
+LOCATION 6
+6
+You arrived at the New College.
+Founded in 1962, New college is a residential college, fostering a tight-knit community and offering various programs
+and activities within the residential setting. Why not try the food in the dinning hall and study at the 2nd floor
+common room? Move north you will be teleported to Innis College, move east will be AC, and move west will be the study
+room. You see a fascinating pad in the common room that might be useful.
+END
+
+LOCATION 7
+7
+You arrived Sidney Smith, one of the prominent buildings. Theres construction currently nearby between New and Sidney.
+Sidney Smith Hall houses various academic departments, classrooms, lecture halls, administrative offices, and student
+services. Probably there are some items in those classrooms that are useful? Move south you will be teleported to Knox
+college, move east will be the food trucks, and move west will be the magic room.
+END
+
+LOCATION 8
+8
+You arrive the Knox College. Take some time to study in the Knox library?
+A theological college affiliated with the Presbyterian Church in Canada. It is one of the member colleges within the
+Toronto School of Theology, which is federated with the University of Toronto's St. George campus. Move north you will
+be teleported to Sidney Smith, and move west will be the John W. Graham Library.
+END
+
+LOCATION 9
+9
+Innis Garden. A charming outdoor space. You see half of a piece of a paper on the ground with number 1890.
+Innis Garden. A charming outdoor space. It serves as a serene retreat for students, faculty, and visitors, offering a
+tranquil environment amidst the bustling campus life. You see half of a piece of a paper on the ground with number 1890.
+Move south you will be teleported to AC, move east will be Innis college, and move west will be the John W. Graham Library.
+END
+
+LOCATION 10
+10
+Atheletic Centre, a hub for fitness, recreation, and sports. You see the remaining half of the paper with number 169
+Atheletic Centre, a hub for fitness, recreation, and sports. Probably special items in the swimming pool? or not...
+You see the remaining half of the paper with number 169. Move south you will be teleported to Innis Garden,
+move east will be Biohazard Laboratory, and move west will be the New college.
+END
+
+LOCATION 11
+11
+Sidney Smith Dinning Hall. It is Thursday Noon right now, there's many students inside.
+Sidney Smith Dinning Hall. It is Thursday Noon right now, there's many students inside. You may find nothing else here
+but food. Move south you will be teleported to food trucks, move east will be "Garden of Eden", and move north
+will be the AC.
+END
+
+LOCATION 12
+12
+You found there are many food trucks here!
+You found there are many food trucks here! It is Thursday Noon right now, there's many students lining up. Move south
+you will be teleported to John W. Graham Library, move east will be Garden of Eden, move north will be the Sidney Smith Dinning
+Hall, and move west will be Sidney Smith.
+END
+
+LOCATION 13
+13
+You arrive at the Super castle.
+You stand before the Super Castle, a majestic structure that rises dramatically against the sky, its towers reaching for the clouds.
+The drawbridge is lowered, inviting you into its vast courtyard, where knights in shining armor once roamed.
+END
+
+LOCATION 14
+14
+You found a secret room close to the Innis Garden!
+You found a secret room close to the Innis Garden! Look around and see some interesting items. You can see a abrasive
+tool is left on the desk, You were wondering if you can use it to shape something. Move south will be the Biohazard
+Laboratory, move west will be the Innis Garden, and east will be Harry Potter's library.
+END
+
+LOCATION 15
+15
+You are at the centre of the Biohazard Laboratory in the school.
+You are at the centre of the biohazard laboratory in the school, the air is filled with pungent smell. You can see medical
+students walking around with spiral shape container with blue liquid inside, this makes you think of the "T-virus" in the
+game "Resident Evil". There is a voice deep inside of you reminding you to leave this place as soon as possible, your anxiety
+keeps intensifying.
+END
+
+LOCATION 16
+16
+You entered a place called "Garden of Eden", a serene oasis hidden behind the biohazard laboratory.
+You entered a place called "Garden of Eden", a lush, hidden oasis located unexpectedly behind the biohazard laboratory.
+This tranquil garden is a stark contrast to the urban environment that surrounds it. It's filled with vibrant flowers,
+ancient trees, and a small round pond with cupid at the centre. Your anxiety quickly dissipate after viewing such beautiful
+scenery.
+END
+
+LOCATION 17
+17
+You are outside the "Garden of Eden" at a grand crossroad. A businessman stand beside, staring at you.
+You are outside the "Garden of Eden" at a grand crossroad. It is currently red light with a countdown of 10. Cars and buses
+rushing past the road, the weather is not very well with clouds above your head. But you do like the moisture smell today.
+There is a businessman with suits beside you and keep staring at you. You look across the road and is able to see the subway station.
+END
+
+LOCATION 18
+18
+You are in the abandoned subway station beneath the school.
+You find yourself in an abandoned subway station, long forgotten beneath the bustling streets above. Old, rusted trains
+sit silently on the tracks with their doors ajar. Graffiti covers the walls, telling stories of a past era. A cold draft
+whispers through the tunnels, carrying eerie sounds from the depths beyond. Despite the urge to explore, an unsettling
+feeling suggests it might be wiser to find a way out sooner rather than later.
+END
+
+LOCATION 19
+19
+You have entered Harry Potter's library, and you observed a locked chest at the centre of the big hall!
+You have entered Harry Potter's library,This is a magical place where the shelves stretch endlessly, filled with books
+that whisper secrets of the wizard world. In the heart of this grand hall stands an intricately carved chest,
+bound by a series of locks that emit a faint mystical glow.
+END
+
+LOCATION 20
+20
+You are entering a small cabin with a chimney and woods burning under it.
+You are entering a small cabin with a chimney and woods burning under it. It is so weired that when you look out through
+the window, you can see it is snowing outside, but once you leave the cabin, no single piece of snow can be observed.
+END
+
+LOCATION 21
+21
+You are at the rooftop garden of the science building.
+The rooftop garden of the science building is a blend of modern science and nature's tranquility. High above the ground,
+this garden is an ecosystem of its own, with a variety of plant species thriving in carefully arranged beds and
+a small pond that hosts aquatic life.
+END
+
+LOCATION 22
+22
+You are inside the clock tower overlooking the school.
+As you step into the clock tower, the panoramic view of the school unfolds before you. The tower, an ancient structure,
+is filled with the rhythmic ticking of the massive clock that dominates the space. Gears and mechanisms are exposed,
+showcasing the intricate workings of time itself.
+END
+
+LOCATION 23
+23
+You arrived at the exam centre! Your destination!
+The building looms large, its doors wide open as if to welcome all who dare to test their knowledge and skill. Inside,
+the air is thick with anticipation and the faint sound of pencils scratching against paper. Rows upon rows of desks are
+neatly arranged, each occupied by a student deep in concentration.
+END

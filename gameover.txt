@@ -1,0 +1,13 @@
+Ao Tian
+enter
+east
+south
+pick up
+type_password
+1890169
+east
+east
+south
+south
+trade
+Cheat_Sheet

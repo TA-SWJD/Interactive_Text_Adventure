@@ -1,0 +1,13 @@
+-1 23 10 Cheat_Sheet
+-1 23 10 Lucky_Pen
+-1 23 10 T_card
+6 0 0 launch_pad
+hint What_items_can_be_combined_together 7 0 0 Stone Combine
+hint What_items_can_be_combined_together 14 0 0 Abrasive_tool Combine
+hint What_can_you_use_to_open_a_locked_chest 19 0 0 Chest_sign Combine
+hint Trade_with_Him 17 0 0 Businessman_token Trade
+1 0 0 coca_cola
+9 0 0 Nintendo_Switch
+17 0 0 Cheese_Burger
+21 0 0 sock
+13 0 0 StarBuck_GiftCard

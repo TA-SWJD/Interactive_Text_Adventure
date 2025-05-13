@@ -1,0 +1,37 @@
+Ao Tian
+enter
+pick up
+east
+south
+pick up
+type_password
+1890169
+east
+south
+south
+west
+pick up
+east
+east
+trade
+coca_cola
+north
+north
+north
+pick up
+combine
+Stone
+Abrasive_tool
+east
+open_chest
+south
+south
+south
+south
+drop item
+Cheat_Sheet
+drop item
+Lucky_Pen
+drop item
+T_card
+yes

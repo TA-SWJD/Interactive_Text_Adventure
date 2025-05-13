@@ -1,0 +1,141 @@
+Welcome to the Text Adventure Game(UofT version)
+Please enter your name to continue: hi, Ao Tian. You can now choose to enter the game by entering enter, the rules will show up immediately, enter quit to quit the game 
+Your starting location will be ROBERTS LIBRARY   
+
+Enter action: RULES AND PROMPT
+# ----------------------------------------------------------------------------#
+You've got an important exam coming up this evening, and you've been studying for weeks. 
+Last night was a particularly late night on campus. You had difficulty focusing, so rather
+ than staying in one place, you studied in various places throughout campus as the night progressed.
+ Unfortunately, when you woke up this morning, you were missing some important exam-related items.
+ You cannot find your T_card, and you're nervous they won't let you into tonight's exam without it.
+ Also, you seem to have misplaced your lucky exam pen -- even if they let you in, you can't possibly
+ write with another pen! Finally, your instructor for the course lets you bring a cheat sheet - 
+a handwritten page of information in the exam. Last night, you painstakingly crammed as much 
+material onto a single page as humanly possible, but that's missing, too! All of this stuff must
+ be around campus somewhere! Can you find all of it before your exam starts tonight?
+
+# ----------------------------------------------------------------------------#
+Following items are hidden in the 5 * 5 mapthere are 23 locations in total
+Your starting location will be  ROBERTS LIBRARY   
+You are on the first floor of the Robarts Library. It's usually crowded at this time of the day, but today it's eerily
+quiet. Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands
+near the service desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to
+the East.
+
+Loading...
+You have started the game, Good Luck!
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: South ,East ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+
+Enter action: Innis collge, the home of many students. A vibrant and inclusive community ready to welcome students, staff, and
+faculty. Wanna stay at the innis Garden for a rest? Move south you will be teleported to 6, move east will be 9,
+and move west will be the Robarts Library.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: South ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+
+Enter action: Founded in 1962, New college is a residential college, fostering a tight-knit community and offering various programs
+and activities within the residential setting. Why not try the food in the dinning hall and study at the 2nd floor
+common room? Move north you will be teleported to Innis College, move east will be AC, and move west will be the study
+room. You see a fascinating pad in the common room that might be useful.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+
+Enter action: Wow! you discovered a launch_pad
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password']
+
+Enter action: Enter the password: Super Castle has been destroyed.
+Correct password! Super_Castle has been destroyed by the missile you just launched,
+ and you suddenly see Cheat_Sheet fly to your hands due to the explosion.
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password']
+
+Enter action: Atheletic Centre, a hub for fitness, recreation, and sports. Probably special items in the swimming pool? or not...
+You see the remaining half of the paper with number 169. Move south you will be teleported to Innis Garden,
+move east will be Biohazard Laboratory, and move west will be the New college.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,South ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password']
+
+Enter action: You are at the centre of the biohazard laboratory in the school, the air is filled with pungent smell. You can see medical
+students walking around with spiral shape container with blue liquid inside, this makes you think of the "T-virus" in the
+game "Resident Evil". There is a voice deep inside of you reminding you to leave this place as soon as possible, your anxiety
+keeps intensifying.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,South ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password']
+
+Enter action: You entered a place called "Garden of Eden", a lush, hidden oasis located unexpectedly behind the biohazard laboratory.
+This tranquil garden is a stark contrast to the urban environment that surrounds it. It's filled with vibrant flowers,
+ancient trees, and a small round pond with cupid at the centre. Your anxiety quickly dissipate after viewing such beautiful
+scenery.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,South ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password']
+
+Enter action: You are outside the "Garden of Eden" at a grand crossroad. It is currently red light with a countdown of 10. Cars and buses
+rushing past the road, the weather is not very well with clouds above your head. But you do like the moisture smell today.
+There is a businessman with suits beside you and keep staring at you. You look across the road and is able to see the subway station.
+
+Above is what you just done! What to do next? 
+
+You can choose to call [menu]
+and these are the list of actions you can perform at this location: 
+   Available movements: North ,South ,East ,West ,drop item
+   Other actions: Pick up 
+   Special actions is shown below
+['type_password', 'trade']
+
+Enter action: Available items to trade: launch_pad, Cheat_Sheet
+Which item would you like to trade? Oh, you trade this precious thing with me! You won't be able to attend your test! HAHA!
+You lose the game haha!
+Oh, you trade this precious thing with me! You won't be able to attend your test! HAHA!
+You lose the game haha!
