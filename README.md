@@ -2,8 +2,6 @@
 
 **CampusQuest** is a text-based Python adventure game where you, a lone student, must explore a strange and magical version of the University of Toronto campus — navigating libraries, labs, gardens, clock towers, and even subway stations — in a desperate attempt to reach the Exam Centre. Along the way, you’ll collect strange items, encounter mysterious characters, solve puzzles, and uncover hidden locations.
 
-> This was my first full Python project built during my first year of university. It combines object-oriented design, file-based world loading, and a bit of narrative world-building.
-
 ---
 
 ## ✨ Features
